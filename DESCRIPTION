@@ -11,3 +11,6 @@ Encoding: UTF-8
 LazyData: true
 URL: https://github.com/maria-pro/slangR
 BugReports: https://github.com/maria-pro/slangR/issues
+RoxygenNote: 7.1.2
+Depends: 
+    R (>= 2.10)
